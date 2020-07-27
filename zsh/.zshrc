@@ -97,3 +97,11 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# Real aliases
+# Update
+alias pacsync="sudo bash ~/dotfiles/scripts/pacsync.sh"
+alias pacsyncu="pacsync && sudo pacman -Su"
+
+# Paste Bin
+alias pbfc="curl -F "c=@-" "https://fars.ee""
