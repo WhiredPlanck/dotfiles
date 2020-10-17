@@ -44,27 +44,27 @@ Language=sw
 Label=tz
 
 [keyboard-brai]
-Description="键盘 - Braille"
+Description="键盘 - 盲人點字符號"
 Language=
 Label=brai
 
 [keyboard-brai-left_hand]
-Description="键盘 - Braille - Braille (left-handed)"
+Description="键盘 - 盲人點字符號 - Braille (left-handed)"
 Language=
 Label=brai
 
 [keyboard-brai-left_hand_invert]
-Description="键盘 - Braille - Braille (left-handed inverted thumb)"
+Description="键盘 - 盲人點字符號 - Braille (left-handed inverted thumb)"
 Language=
 Label=brai
 
 [keyboard-brai-right_hand]
-Description="键盘 - Braille - Braille (right-handed)"
+Description="键盘 - 盲人點字符號 - Braille (right-handed)"
 Language=
 Label=brai
 
 [keyboard-brai-right_hand_invert]
-Description="键盘 - Braille - Braille (right-handed inverted thumb)"
+Description="键盘 - 盲人點字符號 - Braille (right-handed inverted thumb)"
 Language=
 Label=brai
 
@@ -74,12 +74,12 @@ Language=am
 Label=et
 
 [keyboard-tm]
-Description="键盘 - Turkmen"
+Description="键盘 - 土庫曼語"
 Language=tk
 Label=tm
 
 [keyboard-tm-alt]
-Description="键盘 - Turkmen - Turkmen (Alt-Q)"
+Description="键盘 - 土庫曼語 - 土庫曼語 (Alt-Q)"
 Language=tk
 Label=tm
 
@@ -109,7 +109,7 @@ Language=en
 Label=za
 
 [keyboard-bw]
-Description="键盘 - Tswana"
+Description="键盘 - 茨瓦納語"
 Language=tn
 Label=bw
 
@@ -124,7 +124,7 @@ Language=ko
 Label=kr
 
 [keyboard-kr-sun_type6]
-Description="键盘 - 朝鲜语 - Korean (Sun Type 6/7)"
+Description="键盘 - 朝鲜语 - 韓語 (昇陽 Type 6/7)"
 Language=ko
 Label=kr
 
@@ -174,7 +174,7 @@ Language=pl
 Label=gb
 
 [keyboard-gb-sun_type6]
-Description="键盘 - 英语（英国） - English (UK, Sun Type 6/7)"
+Description="键盘 - 英语（英国） - 英語 (英式，昇陽 Type 6/7)"
 Language=en
 Label=gb
 
@@ -214,12 +214,12 @@ Language=uk
 Label=ua
 
 [keyboard-ua-homophonic]
-Description="键盘 - 乌克兰语 - Ukrainian (homophonic)"
+Description="键盘 - 乌克兰语 - 烏克蘭語 (homophonic)"
 Language=uk
 Label=ua
 
 [keyboard-ua-sun_type6]
-Description="键盘 - 乌克兰语 - Ukrainian (Sun Type 6/7)"
+Description="键盘 - 乌克兰语 - 烏克蘭語 (昇陽 Type 6/7)"
 Language=uk
 Label=ua
 
@@ -254,7 +254,7 @@ Language=tg
 Label=tj
 
 [keyboard-tj-legacy]
-Description="键盘 - 塔吉克 - Tajik (legacy)"
+Description="键盘 - 塔吉克 - 塔吉克語 (舊式)"
 Language=tg
 Label=tj
 
@@ -284,7 +284,7 @@ Language=sk
 Label=sk
 
 [keyboard-sk-sun_type6]
-Description="键盘 - 斯洛伐克语 - Slovak (Sun Type 6/7)"
+Description="键盘 - 斯洛伐克语 - 斯洛伐克語 (昇陽 Type 6/7)"
 Language=sk
 Label=sk
 
@@ -294,7 +294,7 @@ Language=ru
 Label=ru
 
 [keyboard-ru-phonetic]
-Description="键盘 - 俄语 - Russian (phonetic)"
+Description="键盘 - 俄语 - 俄語 (音標)"
 Language=ru
 Label=ru
 
@@ -324,12 +324,12 @@ Language=ru
 Label=ru
 
 [keyboard-ru-tt]
-Description="键盘 - 俄语 - Tatar"
+Description="键盘 - 俄语 - 韃靼語"
 Language=tt
 Label=ru
 
 [keyboard-ru-os_legacy]
-Description="键盘 - 俄语 - Ossetian (legacy)"
+Description="键盘 - 俄语 - 奧塞提語 (舊式)"
 Language=os
 Label=ru
 
@@ -339,32 +339,32 @@ Language=os
 Label=ru
 
 [keyboard-ru-cv]
-Description="键盘 - 俄语 - Chuvash"
+Description="键盘 - 俄语 - 楚瓦什語"
 Language=cv
 Label=ru
 
 [keyboard-ru-cv_latin]
-Description="键盘 - 俄语 - Chuvash (Latin)"
+Description="键盘 - 俄语 - 楚瓦什語 (拉丁字母)"
 Language=cv
 Label=ru
 
 [keyboard-ru-udm]
-Description="键盘 - 俄语 - Udmurt"
+Description="键盘 - 俄语 - 烏德穆爾特語"
 Language=udm
 Label=ru
 
 [keyboard-ru-kom]
-Description="键盘 - 俄语 - Komi"
+Description="键盘 - 俄语 - 科米語"
 Language=kv
 Label=ru
 
 [keyboard-ru-sah]
-Description="键盘 - 俄语 - Yakut"
+Description="键盘 - 俄语 - 雅庫特語"
 Language=sah
 Label=ru
 
 [keyboard-ru-xal]
-Description="键盘 - 俄语 - Kalmyk"
+Description="键盘 - 俄语 - 卡爾梅克語"
 Language=xal
 Label=ru
 
@@ -389,7 +389,7 @@ Language=ba
 Label=ru
 
 [keyboard-ru-chm]
-Description="键盘 - 俄语 - Mari"
+Description="键盘 - 俄语 - 馬里語"
 Language=chm
 Label=ru
 
@@ -414,7 +414,7 @@ Language=cu
 Label=ru
 
 [keyboard-ru-ruu]
-Description="键盘 - 俄语 - Russian (with Ukrainian-Belorussian layout)"
+Description="键盘 - 俄语 - 俄語 (附烏克蘭-白俄羅斯配置)"
 Language=ru
 Label=ru
 
@@ -429,7 +429,7 @@ Language=ru
 Label=ru
 
 [keyboard-ru-sun_type6]
-Description="键盘 - 俄语 - Russian (Sun Type 6/7)"
+Description="键盘 - 俄语 - 俄語 (昇陽 Type 6/7)"
 Language=ru
 Label=ru
 
@@ -479,7 +479,7 @@ Language=ku
 Label=ir
 
 [keyboard-ir-ave]
-Description="键盘 - 波斯语 - Avestan"
+Description="键盘 - 波斯语 - 阿維斯塔語"
 Language=ae
 Label=ir
 
@@ -494,7 +494,7 @@ Language=ig
 Label=ng
 
 [keyboard-ng-yoruba]
-Description="键盘 - 英语(尼日利亚) - Yoruba"
+Description="键盘 - 英语(尼日利亚) - 約魯巴語"
 Language=yo
 Label=ng
 
@@ -509,7 +509,7 @@ Language=is
 Label=is
 
 [keyboard-is-Sundeadkeys]
-Description="键盘 - 冰岛 - Icelandic (Sun dead keys)"
+Description="键盘 - 冰岛 - 冰島語 (昇陽廢鍵)"
 Language=is
 Label=is
 
@@ -524,7 +524,7 @@ Language=is
 Label=is
 
 [keyboard-is-mac]
-Description="键盘 - 冰岛 - Icelandic (Macintosh)"
+Description="键盘 - 冰岛 - 冰島語 (麥金塔)"
 Language=is
 Label=is
 
@@ -554,7 +554,7 @@ Language=es
 Label=es
 
 [keyboard-es-sundeadkeys]
-Description="键盘 - 西班牙 - Spanish (Sun dead keys)"
+Description="键盘 - 西班牙 - 西班牙語 (昇陽廢鍵)"
 Language=es
 Label=es
 
@@ -569,7 +569,7 @@ Language=ast
 Label=es
 
 [keyboard-es-cat]
-Description="键盘 - 西班牙 - Catalan (Spain, with middle-dot L)"
+Description="键盘 - 西班牙 - 加泰羅尼亞語 (西班牙，附中點 L)"
 Language=ca
 Label=es
 
@@ -579,7 +579,7 @@ Language=es
 Label=es
 
 [keyboard-es-sun_type6]
-Description="键盘 - 西班牙 - Spanish (Sun Type 6/7)"
+Description="键盘 - 西班牙 - 西班牙語 (昇陽 Type 6/7)"
 Language=es
 Label=es
 
@@ -604,7 +604,7 @@ Language=et
 Label=ee
 
 [keyboard-ee-sun_type6]
-Description="键盘 - 爱沙尼亚 - Estonian (Sun Type 6/7)"
+Description="键盘 - 爱沙尼亚 - 愛沙尼亞語 (昇陽 Type 6/7)"
 Language=et
 Label=ee
 
@@ -629,7 +629,7 @@ Language=nl
 Label=nl
 
 [keyboard-nl-sun_type6]
-Description="键盘 - 荷兰语 - Dutch (Sun Type 6/7)"
+Description="键盘 - 荷兰语 - 荷蘭語 (昇陽 Type 6/7)"
 Language=nl
 Label=nl
 
@@ -674,7 +674,7 @@ Language=ru
 Label=cz
 
 [keyboard-cz-sun_type6]
-Description="键盘 - 捷克 - Czech (Sun Type 6/7)"
+Description="键盘 - 捷克 - 捷克語 (昇陽 Type 6/7)"
 Language=cs
 Label=cz
 
@@ -724,7 +724,7 @@ Language=ru
 Label=se
 
 [keyboard-se-smi]
-Description="键盘 - 瑞典语 - orthern Saami (Sweden)"
+Description="键盘 - 瑞典语 - 北方薩米語 (瑞典)"
 Language=se
 Label=se
 
@@ -734,7 +734,7 @@ Language=sv
 Label=se
 
 [keyboard-se-svdvorak]
-Description="键盘 - 瑞典语 - Swedish (Svdvorak)"
+Description="键盘 - 瑞典语 - 瑞典語 (Svdvorak)"
 Language=sv
 Label=se
 
@@ -749,7 +749,7 @@ Language=sv
 Label=se
 
 [keyboard-se-swl]
-Description="键盘 - 瑞典语 - Swedish Sign Language"
+Description="键盘 - 瑞典语 - 瑞典手語"
 Language=swl
 Label=se
 
@@ -759,7 +759,7 @@ Language=sv
 Label=se
 
 [keyboard-se-sun_type6]
-Description="键盘 - 瑞典语 - Swedish (Sun Type 6/7)"
+Description="键盘 - 瑞典语 - 瑞典語 (昇陽 Type 6/7)"
 Language=sv
 Label=se
 
@@ -783,23 +783,28 @@ Description="键盘 - 保加利亚 - 保加利亚(新音标)"
 Language=bg
 Label=bg
 
+[keyboard-bg-bekl]
+Description="键盘 - 保加利亚 - Bulgarian (enhanced)"
+Language=bg
+Label=bg
+
 [keyboard-md]
 Description="键盘 - 摩尔多瓦语"
 Language=ro
 Label=md
 
 [keyboard-md-gag]
-Description="键盘 - 摩尔多瓦语 - Moldavian (Gagauz)"
+Description="键盘 - 摩尔多瓦语 - 摩爾達維亞語 (加告茲)"
 Language=gag
 Label=md
 
 [keyboard-ke]
-Description="键盘 - Swahili (Kenya)"
+Description="键盘 - 史瓦西里語 (肯亞)"
 Language=sw
 Label=ke
 
 [keyboard-ke-kik]
-Description="键盘 - Swahili (Kenya) - Kikuyu"
+Description="键盘 - 史瓦西里語 (肯亞) - 基庫尤語"
 Language=ki
 Label=ke
 
@@ -809,7 +814,7 @@ Language=en
 Label=us
 
 [keyboard-us-chr]
-Description="键盘 - 英语（美国） - Cherokee"
+Description="键盘 - 英语（美国） - 卻洛奇語"
 Language=chr
 Label=us
 
@@ -873,6 +878,11 @@ Description="键盘 - 英语（美国） - 英语（适合程序员的 Dvorak �
 Language=en
 Label=us
 
+[keyboard-us-symbolic]
+Description="键盘 - 英语（美国） - English (US, Symbolic)"
+Language=en
+Label=us
+
 [keyboard-us-rus]
 Description="键盘 - 英语（美国） - 俄语（美国，音标）"
 Language=ru
@@ -904,7 +914,7 @@ Language=en
 Label=us
 
 [keyboard-us-workman]
-Description="键盘 - 英语（美国） - English (Workman)"
+Description="键盘 - 英语（美国） - 英語 (Workman 配置)"
 Language=en
 Label=us
 
@@ -924,7 +934,7 @@ Language=en
 Label=us
 
 [keyboard-us-ats]
-Description="键盘 - 英语（美国） - Atsina"
+Description="键盘 - 英语（美国） - 阿齊納語"
 Language=en
 Label=us
 
@@ -954,7 +964,7 @@ Language=en
 Label=us
 
 [keyboard-us-sun_type6]
-Description="键盘 - 英语（美国） - English (US, Sun Type 6/7)"
+Description="键盘 - 英语（美国） - 英語 (美式，昇陽 Type 6/7)"
 Language=en
 Label=us
 
@@ -1009,27 +1019,27 @@ Language=en
 Label=us
 
 [keyboard-ge]
-Description="键盘 - Georgian"
+Description="键盘 - 喬治亞語"
 Language=ka
 Label=ge
 
 [keyboard-ge-ergonomic]
-Description="键盘 - Georgian - Georgian (ergonomic)"
+Description="键盘 - 喬治亞語 - 喬治亞語 (人體工學)"
 Language=ka
 Label=ge
 
 [keyboard-ge-mess]
-Description="键盘 - Georgian - Georgian (MESS)"
+Description="键盘 - 喬治亞語 - 喬治亞語 (MESS)"
 Language=ka
 Label=ge
 
 [keyboard-ge-ru]
-Description="键盘 - Georgian - Russian (Georgia)"
+Description="键盘 - 喬治亞語 - 俄語 (喬治亞)"
 Language=ru
 Label=ge
 
 [keyboard-ge-os]
-Description="键盘 - Georgian - Ossetian (Georgia)"
+Description="键盘 - 喬治亞語 - 奧塞提語 (喬治亞)"
 Language=os
 Label=ge
 
@@ -1099,7 +1109,7 @@ Language=fr
 Label=ma
 
 [keyboard-ma-tifinagh]
-Description="键盘 - 阿拉伯语(摩洛哥) - Berber (Morocco, Tifinagh)"
+Description="键盘 - 阿拉伯语(摩洛哥) - 柏柏爾語 (摩洛哥，提非納字母)"
 Language=
 Label=ma
 
@@ -1114,17 +1124,17 @@ Language=
 Label=ma
 
 [keyboard-ma-tifinagh-extended]
-Description="键盘 - 阿拉伯语(摩洛哥) - Berber (Morocco, Tifinagh extended)"
+Description="键盘 - 阿拉伯语(摩洛哥) - 柏柏爾語 (摩洛哥，提非納字母擴充)"
 Language=
 Label=ma
 
 [keyboard-ma-tifinagh-phonetic]
-Description="键盘 - 阿拉伯语(摩洛哥) - Berber (Morocco, Tifinagh phonetic)"
+Description="键盘 - 阿拉伯语(摩洛哥) - 柏柏爾語 (摩洛哥，提非納字母音標)"
 Language=
 Label=ma
 
 [keyboard-ma-tifinagh-extended-phonetic]
-Description="键盘 - 阿拉伯语(摩洛哥) - Berber (Morocco, Tifinagh extended phonetic)"
+Description="键盘 - 阿拉伯语(摩洛哥) - 柏柏爾語 (摩洛哥，提非納字母擴充音標)"
 Language=
 Label=ma
 
@@ -1199,12 +1209,12 @@ Language=ur
 Label=pk
 
 [keyboard-pk-urd-crulp]
-Description="键盘 - 乌尔都语（巴基斯坦） - Urdu (Pakistan, CRULP)"
+Description="键盘 - 乌尔都语（巴基斯坦） - 烏爾都語 (巴基斯坦，CRULP)"
 Language=ur
 Label=pk
 
 [keyboard-pk-urd-nla]
-Description="键盘 - 乌尔都语（巴基斯坦） - Urdu (Pakistan, NLA)"
+Description="键盘 - 乌尔都语（巴基斯坦） - 烏爾都語 (巴基斯坦，NLA)"
 Language=ur
 Label=pk
 
@@ -1314,7 +1324,7 @@ Language=ar
 Label=ara
 
 [keyboard-ara-sun_type6]
-Description="键盘 - 阿拉伯语 - Arabic (Sun Type 6/7)"
+Description="键盘 - 阿拉伯语 - 阿拉伯語 (昇陽 Type 6/7)"
 Language=ar
 Label=ara
 
@@ -1339,22 +1349,22 @@ Language=en
 Label=ie
 
 [keyboard-ie-CloGaelach]
-Description="键盘 - 爱尔兰 - CloGaelach"
+Description="键盘 - 爱尔兰 - aelach"
 Language=ga
 Label=ie
 
 [keyboard-ie-UnicodeExpert]
-Description="键盘 - 爱尔兰 - Irish (UnicodeExpert)"
+Description="键盘 - 爱尔兰 - 愛爾蘭語 (萬國碼專家)"
 Language=en
 Label=ie
 
 [keyboard-ie-ogam]
-Description="键盘 - 爱尔兰 - Ogham"
+Description="键盘 - 爱尔兰 - 歐甘語 (古愛爾蘭)"
 Language=sga
 Label=ie
 
 [keyboard-ie-ogam_is434]
-Description="键盘 - 爱尔兰 - Ogham (IS434)"
+Description="键盘 - 爱尔兰 - 歐甘語 (IS434)"
 Language=sga
 Label=ie
 
@@ -1454,27 +1464,27 @@ Language=bn
 Label=bd
 
 [keyboard-bd-probhat]
-Description="键盘 - 孟加拉语 - Bangla (Probhat)"
+Description="键盘 - 孟加拉语 - ngla (Probhat)"
 Language=bn
 Label=bd
 
 [keyboard-lk]
-Description="键盘 - Sinhala (phonetic)"
+Description="键盘 - 錫蘭僧加羅語 (音標)"
 Language=si
 Label=lk
 
 [keyboard-lk-tam_unicode]
-Description="键盘 - Sinhala (phonetic) - Tamil (Sri Lanka, TamilNet '99)"
+Description="键盘 - 錫蘭僧加羅語 (音標) - Tamil (Sri Lanka, TamilNet '99)"
 Language=ta
 Label=lk
 
 [keyboard-lk-tam_TAB]
-Description="键盘 - Sinhala (phonetic) - Tamil (Sri Lanka, TamilNet '99, TAB encoding)"
+Description="键盘 - 錫蘭僧加羅語 (音標) - Tamil (Sri Lanka, TamilNet '99, TAB encoding)"
 Language=ta
 Label=lk
 
 [keyboard-lk-us]
-Description="键盘 - Sinhala (phonetic) - Sinhala (US)"
+Description="键盘 - 錫蘭僧加羅語 (音標) - Sinhala (US)"
 Language=si
 Label=lk
 
@@ -1504,7 +1514,7 @@ Language=tay
 Label=tw
 
 [keyboard-tw-saisiyat]
-Description="键盘 - 台湾 - Saisiyat (Taiwan)"
+Description="键盘 - 台湾 - 賽夏族語 (臺灣)"
 Language=xsy
 Label=tw
 
@@ -1554,7 +1564,7 @@ Language=rue
 Label=rs
 
 [keyboard-rs-combiningkeys]
-Description="键盘 - 塞尔维亚语 - Serbian (combining accents instead of dead keys)"
+Description="键盘 - 塞尔维亚语 - 塞爾維亞語 (合併音調以代替廢鍵)"
 Language=sr
 Label=rs
 
@@ -1589,12 +1599,12 @@ Language=da
 Label=dk
 
 [keyboard-dk-sun_type6]
-Description="键盘 - 丹麦语 - Danish (Sun Type 6/7)"
+Description="键盘 - 丹麦语 - 丹麥語 (昇陽 Type 6/7)"
 Language=da
 Label=dk
 
 [keyboard-bt]
-Description="键盘 - Dzongkha"
+Description="键盘 - 宗卡語"
 Language=dz
 Label=bt
 
@@ -1619,17 +1629,17 @@ Language=my
 Label=mm
 
 [keyboard-si]
-Description="键盘 - Slovenian"
+Description="键盘 - 斯洛維尼亞語"
 Language=sl
 Label=si
 
 [keyboard-si-alternatequotes]
-Description="键盘 - Slovenian - Slovenian (with guillemets)"
+Description="键盘 - 斯洛維尼亞語 - Slovenian (with guillemets)"
 Language=sl
 Label=si
 
 [keyboard-si-us]
-Description="键盘 - Slovenian - Slovenian (US)"
+Description="键盘 - 斯洛維尼亞語 - Slovenian (US)"
 Language=sl
 Label=si
 
@@ -1649,12 +1659,12 @@ Language=hy
 Label=am
 
 [keyboard-am-eastern]
-Description="键盘 - 亚美尼亚语 - Armenian (eastern)"
+Description="键盘 - 亚美尼亚语 - 亞美尼亞語 (東部)"
 Language=hy
 Label=am
 
 [keyboard-am-western]
-Description="键盘 - 亚美尼亚语 - Armenian (western)"
+Description="键盘 - 亚美尼亚语 - 亞美尼亞語 (西部)"
 Language=hy
 Label=am
 
@@ -1729,7 +1739,7 @@ Language=pt
 Label=br
 
 [keyboard-br-sun_type6]
-Description="键盘 - 葡萄牙(巴西) - Portuguese (Brazil, Sun Type 6/7)"
+Description="键盘 - 葡萄牙(巴西) - 葡萄牙語 (巴西，昇陽 Type 6/7)"
 Language=pt
 Label=br
 
@@ -1779,12 +1789,12 @@ Language=gu
 Label=in
 
 [keyboard-in-guru]
-Description="键盘 - 印地语 - Punjabi (Gurmukhi)"
+Description="键盘 - 印地语 - 旁遮普語 (果魯穆其)"
 Language=pa
 Label=in
 
 [keyboard-in-jhelum]
-Description="键盘 - 印地语 - Punjabi (Gurmukhi Jhelum)"
+Description="键盘 - 印地语 - 旁遮普語 (Gurmukhi Jhelum)"
 Language=pa
 Label=in
 
@@ -1804,7 +1814,7 @@ Language=ml
 Label=in
 
 [keyboard-in-mal_lalitha]
-Description="键盘 - 印地语 - Malayalam (Lalitha)"
+Description="键盘 - 印地语 - 馬來亞拉姆語 (Lalitha)"
 Language=ml
 Label=in
 
@@ -1834,7 +1844,7 @@ Language=ta
 Label=in
 
 [keyboard-in-tam_tamilnet_TAB]
-Description="键盘 - 印地语 - Tamil (TamilNet '99, TAB encoding)"
+Description="键盘 - 印地语 - '99, TAB encoding)"
 Language=ta
 Label=in
 
@@ -1879,12 +1889,12 @@ Language=ur
 Label=in
 
 [keyboard-in-bolnagri]
-Description="键盘 - 印地语 - Hindi (Bolnagri)"
+Description="键盘 - 印地语 - 北印度語 (Bolnagri)"
 Language=hi
 Label=in
 
 [keyboard-in-hin-wx]
-Description="键盘 - 印地语 - Hindi (Wx)"
+Description="键盘 - 印地语 - 北印度語 (Wx)"
 Language=hi
 Label=in
 
@@ -1909,13 +1919,13 @@ Language=en
 Label=in
 
 [keyboard-in-iipa]
-Description="键盘 - 印地语 - Indic IPA (IIPA)"
-Language=en
+Description="键盘 - 印地语 - Indic (phonetic, IPA)"
+Language=
 Label=in
 
 [keyboard-in-marathi]
-Description="键盘 - 印地语 - मराठी इन्स्क्रिप्ट"
-Language=en
+Description="键盘 - 印地语 - Marathi (enhanced Inscript)"
+Language=mr
 Label=in
 
 [keyboard-in-modi-kagapa]
@@ -1964,7 +1974,7 @@ Language=de
 Label=be
 
 [keyboard-be-sun_type6]
-Description="键盘 - 比利时语 - Belgian (Sun Type 6/7)"
+Description="键盘 - 比利时语 - 比利時語 (昇陽 Type 6/7)"
 Language=de
 Label=be
 
@@ -2024,17 +2034,17 @@ Language=lv
 Label=lv
 
 [keyboard-lv-modern]
-Description="键盘 - 拉脱维亚 - Latvian (modern)"
+Description="键盘 - 拉脱维亚 - 拉脫維亞語 (現代型)"
 Language=lv
 Label=lv
 
 [keyboard-lv-ergonomic]
-Description="键盘 - 拉脱维亚 - Latvian (ergonomic, ŪGJRMV)"
+Description="键盘 - 拉脱维亚 - 拉脫維亞語 (人體工學，ŪGJRMV)"
 Language=lv
 Label=lv
 
 [keyboard-lv-adapted]
-Description="键盘 - 拉脱维亚 - Latvian (adapted)"
+Description="键盘 - 拉脱维亚 - 拉脫維亞語 (調整)"
 Language=lv
 Label=lv
 
@@ -2079,7 +2089,7 @@ Language=lv
 Label=lv
 
 [keyboard-lv-sun_type6]
-Description="键盘 - 拉脱维亚 - Latvian (Sun Type 6/7)"
+Description="键盘 - 拉脱维亚 - 拉脫維亞語 (昇陽 Type 6/7)"
 Language=lv
 Label=lv
 
@@ -2134,7 +2144,7 @@ Language=de
 Label=at
 
 [keyboard-at-sundeadkeys]
-Description="键盘 - 德语（奥地利） - German (Austria, Sun dead keys)"
+Description="键盘 - 德语（奥地利） - 德語 (奧地利，昇陽廢鍵)"
 Language=de
 Label=at
 
@@ -2159,7 +2169,7 @@ Language=de
 Label=ch
 
 [keyboard-ch-de_sundeadkeys]
-Description="键盘 - 德语（瑞士） - German (Switzerland, Sun dead keys)"
+Description="键盘 - 德语（瑞士） - 德語 (瑞士，昇陽廢鍵)"
 Language=de
 Label=ch
 
@@ -2174,7 +2184,7 @@ Language=fr
 Label=ch
 
 [keyboard-ch-fr_sundeadkeys]
-Description="键盘 - 德语（瑞士） - French (Switzerland, Sun dead keys)"
+Description="键盘 - 德语（瑞士） - 法語 (瑞士，昇陽廢鍵)"
 Language=fr
 Label=ch
 
@@ -2189,12 +2199,12 @@ Language=de
 Label=ch
 
 [keyboard-ch-sun_type6_de]
-Description="键盘 - 德语（瑞士） - German (Switzerland, Sun Type 6/7)"
+Description="键盘 - 德语（瑞士） - 德語 (瑞士，昇陽 Type 6/7)"
 Language=de
 Label=ch
 
 [keyboard-ch-sun_type6_fr]
-Description="键盘 - 德语（瑞士） - French (Switzerland, Sun Type 6/7)"
+Description="键盘 - 德语（瑞士） - 法語 (瑞士，昇陽 Type 6/7)"
 Language=de
 Label=ch
 
@@ -2204,12 +2214,12 @@ Language=kk
 Label=kz
 
 [keyboard-kz-ruskaz]
-Description="键盘 - 哈萨克语 - Russian (Kazakhstan, with Kazakh)"
+Description="键盘 - 哈萨克语 - 俄語 (哈薩克，附哈薩克語)"
 Language=ru
 Label=kz
 
 [keyboard-kz-kazrus]
-Description="键盘 - 哈萨克语 - Kazakh (with Russian)"
+Description="键盘 - 哈萨克语 - 哈薩克語 (附俄語)"
 Language=kk
 Label=kz
 
@@ -2369,62 +2379,62 @@ Language=en
 Label=ca
 
 [keyboard-ca-kut]
-Description="键盘 - 法语(加拿大) - Kutenai"
+Description="键盘 - 法语(加拿大) - 庫特內語"
 Language=fr
 Label=ca
 
 [keyboard-ca-shs]
-Description="键盘 - 法语(加拿大) - Secwepemctsin"
+Description="键盘 - 法语(加拿大) - 蘇斯瓦語"
 Language=fr
 Label=ca
 
 [keyboard-ca-sun_type6]
-Description="键盘 - 法语(加拿大) - Multilingual (Canada, Sun Type 6/7)"
+Description="键盘 - 法语(加拿大) - 多語言 (加拿大，昇陽 Type 6/7)"
 Language=fr
 Label=ca
 
 [keyboard-gh]
-Description="键盘 - English (Ghana)"
+Description="键盘 - 英語 (迦納)"
 Language=en
 Label=gh
 
 [keyboard-gh-generic]
-Description="键盘 - English (Ghana) - English (Ghana, multilingual)"
+Description="键盘 - 英語 (迦納) - 英語 (迦納，多語言)"
 Language=en
 Label=gh
 
 [keyboard-gh-akan]
-Description="键盘 - English (Ghana) - 阿肯"
+Description="键盘 - 英語 (迦納) - 阿肯"
 Language=ak
 Label=gh
 
 [keyboard-gh-ewe]
-Description="键盘 - English (Ghana) - Ewe"
+Description="键盘 - 英語 (迦納) - Ewe"
 Language=ee
 Label=gh
 
 [keyboard-gh-fula]
-Description="键盘 - English (Ghana) - Fula"
+Description="键盘 - 英語 (迦納) - 富拉語"
 Language=ff
 Label=gh
 
 [keyboard-gh-ga]
-Description="键盘 - English (Ghana) - Ga"
+Description="键盘 - 英語 (迦納) - 格語"
 Language=gaa
 Label=gh
 
 [keyboard-gh-hausa]
-Description="键盘 - English (Ghana) - Hausa (Ghana)"
+Description="键盘 - 英語 (迦納) - Hausa (Ghana)"
 Language=ha
 Label=gh
 
 [keyboard-gh-avn]
-Description="键盘 - English (Ghana) - Avatime"
+Description="键盘 - 英語 (迦納) - 阿瓦蒂梅語"
 Language=avn
 Label=gh
 
 [keyboard-gh-gillbt]
-Description="键盘 - English (Ghana) - English (Ghana, GILLBT)"
+Description="键盘 - 英語 (迦納) - 英語 (迦納，GILLBT)"
 Language=en
 Label=gh
 
@@ -2439,7 +2449,7 @@ Language=fr
 Label=fr
 
 [keyboard-fr-sundeadkeys]
-Description="键盘 - 法语 - French (Sun dead keys)"
+Description="键盘 - 法语 - 法語 (昇陽廢鍵)"
 Language=fr
 Label=fr
 
@@ -2499,7 +2509,7 @@ Language=fr
 Label=fr
 
 [keyboard-fr-mac]
-Description="键盘 - 法语 - French (Macintosh)"
+Description="键盘 - 法语 - 法語 (麥金塔)"
 Language=fr
 Label=fr
 
@@ -2514,17 +2524,17 @@ Language=fr
 Label=fr
 
 [keyboard-fr-bre]
-Description="键盘 - 法语 - French (Breton)"
+Description="键盘 - 法语 - 法語 (布里敦語)"
 Language=fr
 Label=fr
 
 [keyboard-fr-oci]
-Description="键盘 - 法语 - Occitan"
+Description="键盘 - 法语 - 奧克西坦語"
 Language=oc
 Label=fr
 
 [keyboard-fr-geo]
-Description="键盘 - 法语 - Georgian (France, AZERTY Tskapo)"
+Description="键盘 - 法语 - 喬治亞語 (法國，AZERTY Tskapo)"
 Language=ka
 Label=fr
 
@@ -2534,7 +2544,7 @@ Language=fr
 Label=fr
 
 [keyboard-fr-sun_type6]
-Description="键盘 - 法语 - French (Sun Type 6/7)"
+Description="键盘 - 法语 - 法語 (昇陽 Type 6/7)"
 Language=fr
 Label=fr
 
@@ -2584,7 +2594,7 @@ Language=fi
 Label=fi
 
 [keyboard-fi-smi]
-Description="键盘 - 芬兰语 - Northern Saami (Finland)"
+Description="键盘 - 芬兰语 - 北方薩米語 (芬蘭)"
 Language=se
 Label=fi
 
@@ -2594,7 +2604,7 @@ Language=fi
 Label=fi
 
 [keyboard-fi-sun_type6]
-Description="键盘 - 芬兰语 - Finnish (Sun Type 6/7)"
+Description="键盘 - 芬兰语 - 芬蘭語 (昇陽 Type 6/7)"
 Language=fi
 Label=fi
 
@@ -2649,7 +2659,7 @@ Language=lt
 Label=lt
 
 [keyboard-lt-sun_type6]
-Description="键盘 - 立陶宛语 - Lithuanian (Sun Type 6/7)"
+Description="键盘 - 立陶宛语 - 立陶宛語 (昇陽 Type 6/7)"
 Language=lt
 Label=lt
 
@@ -2674,7 +2684,7 @@ Language=pt
 Label=pt
 
 [keyboard-pt-sundeadkeys]
-Description="键盘 - 葡萄牙语 - Portuguese (Sun dead keys)"
+Description="键盘 - 葡萄牙语 - 葡萄牙語 (昇陽廢鍵)"
 Language=pt
 Label=pt
 
@@ -2689,12 +2699,12 @@ Language=pt
 Label=pt
 
 [keyboard-pt-mac_sundeadkeys]
-Description="键盘 - 葡萄牙语 - Portuguese (Macintosh, Sun dead keys)"
+Description="键盘 - 葡萄牙语 - 葡萄牙語 (麥金塔，昇陽廢鍵)"
 Language=pt
 Label=pt
 
 [keyboard-pt-nativo]
-Description="键盘 - 葡萄牙语 - Portuguese (Nativo)"
+Description="键盘 - 葡萄牙语 - 葡萄牙語 (Nativo)"
 Language=pt
 Label=pt
 
@@ -2704,12 +2714,12 @@ Language=pt
 Label=pt
 
 [keyboard-pt-nativo-epo]
-Description="键盘 - 葡萄牙语 - Esperanto (Portugal, Nativo)"
+Description="键盘 - 葡萄牙语 - 世界語 (葡萄牙，Nativo)"
 Language=eo
 Label=pt
 
 [keyboard-pt-sun_type6]
-Description="键盘 - 葡萄牙语 - Portuguese (Sun Type 6/7)"
+Description="键盘 - 葡萄牙语 - 葡萄牙語 (昇陽 Type 6/7)"
 Language=pt
 Label=pt
 
@@ -2734,12 +2744,12 @@ Language=de
 Label=de
 
 [keyboard-de-deadacute]
-Description="键盘 - 德语 - German (dead acute)"
+Description="键盘 - 德语 - 德語 (廢銳音)"
 Language=de
 Label=de
 
 [keyboard-de-deadgraveacute]
-Description="键盘 - 德语 - German (dead grave acute)"
+Description="键盘 - 德语 - 德語 (廢抑銳音)"
 Language=de
 Label=de
 
@@ -2748,8 +2758,23 @@ Description="键盘 - 德语 - German (no dead keys)"
 Language=de
 Label=de
 
+[keyboard-de-e1]
+Description="键盘 - 德语 - German (E1)"
+Language=de
+Label=de
+
+[keyboard-de-e2]
+Description="键盘 - 德语 - German (E2)"
+Language=de
+Label=de
+
 [keyboard-de-T3]
-Description="键盘 - 德语 - German (T3)"
+Description="键盘 - 德语 - 德語 (T3)"
+Language=de
+Label=de
+
+[keyboard-de-us]
+Description="键盘 - 德语 - 德语（US）"
 Language=de
 Label=de
 
@@ -2774,7 +2799,7 @@ Language=de
 Label=de
 
 [keyboard-de-neo]
-Description="键盘 - 德语 - German (Neo 2)"
+Description="键盘 - 德语 - 德語 (Neo 2)"
 Language=de
 Label=de
 
@@ -2789,7 +2814,7 @@ Language=de
 Label=de
 
 [keyboard-de-dsb]
-Description="键盘 - 德语 - 下索布语"
+Description="键盘 - 德语 - ian"
 Language=dsb
 Label=de
 
@@ -2809,18 +2834,13 @@ Language=
 Label=de
 
 [keyboard-de-ru]
-Description="键盘 - 德语 - Russian (Germany, phonetic)"
+Description="键盘 - 德语 - 俄語 (德國，音標)"
 Language=ru
 Label=de
 
 [keyboard-de-deadtilde]
 Description="键盘 - 德语 - German (dead tilde)"
 Language=de
-Label=de
-
-[keyboard-de-us]
-Description="键盘 - 德语 - 德语（US）"
-Language=en
 Label=de
 
 [keyboard-de-hu]
@@ -2834,7 +2854,7 @@ Language=de
 Label=de
 
 [keyboard-de-sun_type6]
-Description="键盘 - 德语 - German (Sun Type 6/7)"
+Description="键盘 - 德语 - 德語 (昇陽 Type 6/7)"
 Language=de
 Label=de
 
@@ -2889,7 +2909,7 @@ Language=el
 Label=gr
 
 [keyboard-gr-simple]
-Description="键盘 - 希腊语 - Greek (simple)"
+Description="键盘 - 希腊语 - 希臘語 (簡單)"
 Language=el
 Label=gr
 
@@ -2904,12 +2924,12 @@ Language=el
 Label=gr
 
 [keyboard-gr-polytonic]
-Description="键盘 - 希腊语 - Greek (polytonic)"
+Description="键盘 - 希腊语 - 希臘語 (多音調)"
 Language=el
 Label=gr
 
 [keyboard-gr-sun_type6]
-Description="键盘 - 希腊语 - Greek (Sun Type 6/7)"
+Description="键盘 - 希腊语 - 希臘語 (昇陽 Type 6/7)"
 Language=el
 Label=gr
 
@@ -2924,17 +2944,17 @@ Language=fr
 Label=tg
 
 [keyboard-mao]
-Description="键盘 - Maori"
+Description="键盘 - 毛利語"
 Language=mi
 Label=mao
 
 [keyboard-sn]
-Description="键盘 - Wolof"
+Description="键盘 - 渥魯夫語"
 Language=wo
 Label=sn
 
 [keyboard-kh]
-Description="键盘 - Khmer (Cambodia)"
+Description="键盘 - 高棉語 (柬埔寨)"
 Language=km
 Label=kh
 
@@ -2983,7 +3003,7 @@ Description="键盘 - 匈牙利语 - Hungarian (QWERTZ, 101-key, dot, dead keys)
 Language=hu
 Label=hu
 
-[keyboard-hu-101_qwertz_dot_nodead]
+[keyboard-hu-wertz_dot_nodead]
 Description="键盘 - 匈牙利语 - Hungarian (QWERTZ, 101-key, dot, no dead keys)"
 Language=hu
 Label=hu
@@ -3053,7 +3073,7 @@ Description="键盘 - 匈牙利语 - 旧匈牙利语"
 Language=hu
 Label=hu
 
-[keyboard-hu-ohu_lig]
+[keyboard-hu-oldhunlig]
 Description="键盘 - 匈牙利语 - Old Hungarian (for ligatures)"
 Language=hu
 Label=hu
@@ -3074,7 +3094,7 @@ Language=tr
 Label=tr
 
 [keyboard-tr-sundeadkeys]
-Description="键盘 - 土耳其 - Turkish (Sun dead keys)"
+Description="键盘 - 土耳其 - 土耳其語 (昇陽廢鍵)"
 Language=tr
 Label=tr
 
@@ -3099,22 +3119,27 @@ Language=tr
 Label=tr
 
 [keyboard-tr-crh]
-Description="键盘 - 土耳其 - Crimean Tatar (Turkish Q)"
+Description="键盘 - 土耳其 - 克里米亞韃靼語 (土耳其語 Q)"
 Language=crh
 Label=tr
 
 [keyboard-tr-crh_f]
-Description="键盘 - 土耳其 - Crimean Tatar (Turkish F)"
+Description="键盘 - 土耳其 - 克里米亞韃靼語 (土耳其語 F)"
 Language=crh
 Label=tr
 
 [keyboard-tr-crh_alt]
-Description="键盘 - 土耳其 - Crimean Tatar (Turkish Alt-Q)"
+Description="键盘 - 土耳其 - 克里米亞韃靼語 (土耳其語 Alt-Q)"
 Language=crh
 Label=tr
 
 [keyboard-tr-sun_type6]
-Description="键盘 - 土耳其 - Turkish (Sun Type 6/7)"
+Description="键盘 - 土耳其 - 土耳其語 (昇陽 Type 6/7)"
+Language=tr
+Label=tr
+
+[keyboard-tr-otk]
+Description="键盘 - 土耳其 - Old Turkic"
 Language=tr
 Label=tr
 
@@ -3124,22 +3149,22 @@ Language=he
 Label=il
 
 [keyboard-il-lyx]
-Description="键盘 - 希伯来语 - Hebrew (lyx)"
+Description="键盘 - 希伯来语 - 希伯來語 (lyx)"
 Language=he
 Label=il
 
 [keyboard-il-phonetic]
-Description="键盘 - 希伯来语 - Hebrew (phonetic)"
+Description="键盘 - 希伯来语 - 希伯來語 (音標)"
 Language=he
 Label=il
 
 [keyboard-il-biblical]
-Description="键盘 - 希伯来语 - Hebrew (Biblical, Tiro)"
+Description="键盘 - 希伯来语 - 希伯來語 (Biblical，Tiro)"
 Language=he
 Label=il
 
 [keyboard-il-biblicalSIL]
-Description="键盘 - 希伯来语 - Hebrew (Biblical, SIL phonetic)"
+Description="键盘 - 希伯来语 - 希伯來語 (Biblical，SIL 音標)"
 Language=he
 Label=il
 
@@ -3194,7 +3219,7 @@ Language=fur
 Label=it
 
 [keyboard-it-sun_type6]
-Description="键盘 - 意大利语 - Italian (Sun Type 6/7)"
+Description="键盘 - 意大利语 - 義大利語 (昇陽 Type 6/7)"
 Language=it
 Label=it
 
@@ -3234,7 +3259,7 @@ Language=ja
 Label=jp
 
 [keyboard-jp-sun_type6]
-Description="键盘 - 日语 - Japanese (Sun Type 6)"
+Description="键盘 - 日语 - 日語 (昇陽 Type 6)"
 Language=ja
 Label=jp
 
@@ -3264,7 +3289,7 @@ Language=es
 Label=latam
 
 [keyboard-latam-sundeadkeys]
-Description="键盘 - 西班牙语(拉丁美洲) - Spanish (Latin American, Sun dead keys)"
+Description="键盘 - 西班牙语(拉丁美洲) - 西班牙語 (拉丁美洲，昇陽廢鍵)"
 Language=es
 Label=latam
 
@@ -3324,7 +3349,7 @@ Language=no
 Label=no
 
 [keyboard-no-smi]
-Description="键盘 - 挪威语 - Northern Saami (Norway)"
+Description="键盘 - 挪威语 - 北方薩米語 (挪威)"
 Language=se
 Label=no
 
@@ -3344,12 +3369,12 @@ Language=no
 Label=no
 
 [keyboard-no-colemak]
-Description="键盘 - 挪威语 - Norwegian (Colemak)"
+Description="键盘 - 挪威语 - 挪威語 (Colemak 配置)"
 Language=no
 Label=no
 
 [keyboard-no-sun_type6]
-Description="键盘 - 挪威语 - Norwegian (Sun Type 6/7)"
+Description="键盘 - 挪威语 - 挪威語 (昇陽 Type 6/7)"
 Language=no
 Label=no
 
@@ -3384,7 +3409,7 @@ Language=pl
 Label=pl
 
 [keyboard-pl-csb]
-Description="键盘 - 波兰语 - Kashubian"
+Description="键盘 - 波兰语 - 卡舒比語"
 Language=csb
 Label=pl
 
@@ -3394,7 +3419,7 @@ Language=szl
 Label=pl
 
 [keyboard-pl-ru_phonetic_dvorak]
-Description="键盘 - 波兰语 - Russian (Poland, phonetic Dvorak)"
+Description="键盘 - 波兰语 - 俄語 (波蘭，音標 Dvorak 配置)"
 Language=ru
 Label=pl
 
@@ -3409,12 +3434,12 @@ Language=pl
 Label=pl
 
 [keyboard-pl-colemak]
-Description="键盘 - 波兰语 - Polish (Colemak)"
+Description="键盘 - 波兰语 - 波蘭語 (Colemak 配置)"
 Language=pl
 Label=pl
 
 [keyboard-pl-sun_type6]
-Description="键盘 - 波兰语 - Polish (Sun Type 6/7)"
+Description="键盘 - 波兰语 - 波蘭語 (昇陽 Type 6/7)"
 Language=pl
 Label=pl
 
@@ -3429,7 +3454,7 @@ Language=ro
 Label=ro
 
 [keyboard-ro-cedilla]
-Description="键盘 - 罗马尼亚语 - Romanian (cedilla)"
+Description="键盘 - 罗马尼亚语 - 羅馬尼亞語 (尾形符號)"
 Language=ro
 Label=ro
 
@@ -3439,7 +3464,7 @@ Language=ro
 Label=ro
 
 [keyboard-ro-std_cedilla]
-Description="键盘 - 罗马尼亚语 - Romanian (standard cedilla)"
+Description="键盘 - 罗马尼亚语 - 羅馬尼亞語 (標準尾形符號)"
 Language=ro
 Label=ro
 
@@ -3449,17 +3474,17 @@ Language=ro
 Label=ro
 
 [keyboard-ro-crh_dobruja]
-Description="键盘 - 罗马尼亚语 - Crimean Tatar (Dobruja Q)"
+Description="键盘 - 罗马尼亚语 - 克里米亞韃靼語 (Dobruja Q)"
 Language=crh
 Label=ro
 
 [keyboard-ro-ergonomic]
-Description="键盘 - 罗马尼亚语 - Romanian (ergonomic Touchtype)"
+Description="键盘 - 罗马尼亚语 - 羅馬尼亞語 (人體工學觸控型式)"
 Language=ro
 Label=ro
 
 [keyboard-ro-sun_type6]
-Description="键盘 - 罗马尼亚语 - Romanian (Sun Type 6/7)"
+Description="键盘 - 罗马尼亚语 - 羅馬尼亞語 (昇陽 Type 6/7)"
 Language=ro
 Label=ro
 
